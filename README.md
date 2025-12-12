@@ -59,7 +59,7 @@ python predict.py
 
 📊 Example Output
 Input: "A remote code execution vulnerability in..."
-Prediction: High / Critical
+Prediction: Not Critical / Critical
 
 🌟 Future Improvements
 
